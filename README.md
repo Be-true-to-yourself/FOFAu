@@ -12,7 +12,7 @@
 
   **-h**
 
-​	**参数h: 查看帮助信息**
+  **参数h: 查看帮助信息**
 
   **-f string**
         **参数f：获取指定队列名，默认ip,host,port (default "ip,host,port")**

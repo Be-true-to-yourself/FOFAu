@@ -4,6 +4,7 @@
 
 使用命令行打开，在FOFA官网登录账号查看邮箱和API KEY
 ![FOFA截图](https://user-images.githubusercontent.com/87813286/195744750-93f52ae1-5887-436c-8856-48ae589101b6.png)
+
 在本工具初始化界面进行输入，最后初始化完成
 ![初始化界面](https://user-images.githubusercontent.com/87813286/195744780-96f4579c-431f-4d13-a683-48994bdf0ce8.png)
 
